@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> <center>
+    <table>
+        <img src="produçao.jpg" width="300" height="300">
+        <h4>Preparação do Terreno: A primeira etapa mostra a preparação do terreno para a construção. Tratores e escavadeiras estão em ação, nivelando o solo e removendo qualquer obstáculo para dar espaço ao projeto.</h4>
+
+        <p><img src="download.jpg" width="300" height="300"></p>
+        <h4>Fundações sendo Colocadas: Na segunda imagem, vemos equipes trabalhando na instalação das fundações. Grandes estruturas de concreto são despejadas e moldadas, garantindo a base sólida necessária para a construção.</h4>
+
+        <p><img src="esqueleto.jpg" width="300" height="300"></p>
+        <h4>Estruturação do Esqueleto: Nesta etapa, a estrutura principal do edifício começa a tomar forma. Vigas de aço e colunas são erguidas, criando o esqueleto do prédio e proporcionando a base para os próximos estágios da construção.</h4>
+
+        <p><img src="download (1).jpg" width="300" height="300"></p>
+        <h4>Instalações Elétricas e Hidráulicas: A quarta imagem destaca as equipes trabalhando na instalação das redes elétricas e hidráulicas. Tubulações são cuidadosamente posicionadas dentro das paredes e pisos, preparando o edifício para receber sistemas essenciais de água, gás e eletricidade.</h4>
+
+        <p><img src="images.jpg" width="300" height="300"></p>
+        <h4>Estruturação dos Pisos e Paredes: Aqui, vemos o progresso na construção dos pisos e paredes do edifício. Equipes de alvenaria trabalham diligentemente para erguer as paredes, enquanto concreto é despejado e nivelado para formar os diferentes níveis do prédio.</h4>
+
+        <p><img src="images1.jpg" width="300" height="300"></p>
+        <h4>Acabamentos e Detalhes: Na penúltima imagem, os detalhes começam a ganhar vida. Pintura, revestimentos e acabamentos interiores são aplicados, adicionando estilo e personalidade ao espaço. Janelas e portas são instaladas, e os toques finais estão sendo cuidadosamente executados.</h4>
+
+        <p><img src="download (2).jpg" width="300" height="300"></p>
+        <h4>Conclusão e Entrega: Na última imagem, o projeto está concluído e pronto para ser entregue. A equipe de construção revisa cada detalhe para garantir que tudo esteja perfeito</h4>
+
+    </table>
+    <nav> 
+        <a href="empresa.html">Início</a>
+        <a href="contato.html">Contato</a>
+        <a href="fotos.html">Fotos</a>
+    </nav>
+    
+</center>
+</body>
+</html>
